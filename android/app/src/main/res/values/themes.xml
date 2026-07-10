@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GuildaProtobuf" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <!-- Barras transparentes — Compose gerencia a cor via WindowInsets -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- Ícones da status bar escuros no tema claro -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

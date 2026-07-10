@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.guilda.protobuf.ui.CreateUserViewModel
+-keep,allowobfuscation,allowshrinking class com.guilda.protobuf.ui.CreateUserViewModel

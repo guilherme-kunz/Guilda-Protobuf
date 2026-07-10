@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.guilda.protobuf.app-mergeDebugResources-65:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Guilherme\\.gradle\\caches\\9.3.0\\transforms\\68e16b05d58b9ec0a6f2135d087eac2b\\workspace\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
