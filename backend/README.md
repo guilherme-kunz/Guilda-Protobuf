@@ -1,6 +1,6 @@
 # Guilda Protobuf — Backend
 
-Mock server criado para o workshop interno **Protobuf vs JSON/REST** da Guilda Android da Venturus. Demonstra como o mesmo contrato `.proto` pode ser servido tanto em formato binário (Protobuf) quanto em JSON a partir de um único endpoint.
+Mock server criado para o workshop **Protobuf vs JSON/REST**. Demonstra como o mesmo contrato `.proto` pode ser servido tanto em formato binário (Protobuf) quanto em JSON a partir de um único endpoint.
 
 ---
 
